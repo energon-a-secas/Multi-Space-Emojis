@@ -4,7 +4,7 @@ Multi-Space-Emojis
 Essentials
 -----
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/essentials/notfound.png)
-![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/essentials/clap2.png)
+![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/essentials/clap2.gif)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/essentials/f.png)
 
 Argentina
@@ -38,9 +38,9 @@ Chile
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/chile/plop.png)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/chile/nyanchile.gif)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/chile/colocolo.png)
-![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/chile/segundos.png)
+![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/chile/segundo.png)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/chile/chaleco_amarillo.png)
-![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/chile/asitalcualese.png)
+![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/chile/asitalcual.png)
 
 Development
 -----
