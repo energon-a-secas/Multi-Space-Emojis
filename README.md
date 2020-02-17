@@ -4,6 +4,7 @@ Multi-Space-Emojis
 Essentials
 -----
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/essentials/notfound.png)
+![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/essentials/clap2.png)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/essentials/f.png)
 
 Argentina
@@ -63,12 +64,12 @@ Development
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/k8s.png)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/kc.jpg)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merge.png)
-![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merged-d.png)
-![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merged-e.png)
-![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merged-e2.png)
-![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merged-g.png)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merged-m.png)
+![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merged-e.png)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merged-r.png)
+![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merged-g.png)
+![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merged-e2.png)
+![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/merged-d.png)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/nodejs.png)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/owasp.png)
 ![](https://raw.githubusercontent.com/energon-a-secas/Multi-Space-Emojis/master/emojis/development/php-ceo.png)
